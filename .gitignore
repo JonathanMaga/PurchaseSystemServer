@@ -1,0 +1,9 @@
+build/*
+dist/*
+nbproject/*
+PurchaseSystemServer-ejb/build/*
+PurchaseSystemServer-ejb/dist/*
+PurchaseSystemServer-ejb/nbproject/*
+PurchaseSystemServer-war/build/*
+PurchaseSystemServer-war/dist/*
+PurchaseSystemServer-war/nbproject/*
