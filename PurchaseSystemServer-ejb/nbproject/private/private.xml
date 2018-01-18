@@ -4,9 +4,20 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/jmagalhaes/Documents/NetBeansProjects/PurchaseSystemServer/PurchaseSystemServer-ejb/src/java/administrador/Administrador.java</file>
+            <file>file:/C:/Users/jmagalhaes/Documents/NetBeansProjects/PurchaseSystemServer/PurchaseSystemServer-ejb/src/java/JPA/Roles.java</file>
+            <file>file:/C:/Users/jmagalhaes/Documents/NetBeansProjects/PurchaseSystemServer/PurchaseSystemServer-ejb/src/java/JPA/Component.java</file>
+            <file>file:/C:/Users/jmagalhaes/Documents/NetBeansProjects/PurchaseSystemServer/PurchaseSystemServer-ejb/src/java/JPA/Componentcategory.java</file>
+            <file>file:/C:/Users/jmagalhaes/Documents/NetBeansProjects/PurchaseSystemServer/PurchaseSystemServer-ejb/src/java/JPA/Users.java</file>
+            <file>file:/C:/Users/jmagalhaes/Documents/NetBeansProjects/PurchaseSystemServer/PurchaseSystemServer-ejb/src/java/JPA/Seller.java</file>
             <file>file:/C:/Users/jmagalhaes/Documents/NetBeansProjects/PurchaseSystemServer/PurchaseSystemServer-ejb/src/java/PurchaseSystem/SystemPurchase.java</file>
-            <file>file:/C:/Users/jmagalhaes/Documents/NetBeansProjects/PurchaseSystemServer/PurchaseSystemServer-ejb/src/conf/persistence.xml</file>
             <file>file:/C:/Users/jmagalhaes/Documents/NetBeansProjects/PurchaseSystemServer/PurchaseSystemServer-ejb/src/java/PurchaseSystem/SystemPurchaseLocal.java</file>
+            <file>file:/C:/Users/jmagalhaes/Documents/NetBeansProjects/PurchaseSystemServer/PurchaseSystemServer-ejb/src/java/JPA/Product.java</file>
+            <file>file:/C:/Users/jmagalhaes/Documents/NetBeansProjects/PurchaseSystemServer/PurchaseSystemServer-ejb/src/java/JPA/Productstate.java</file>
+            <file>file:/C:/Users/jmagalhaes/Documents/NetBeansProjects/PurchaseSystemServer/PurchaseSystemServer-ejb/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/jmagalhaes/Documents/NetBeansProjects/PurchaseSystemServer/PurchaseSystemServer-ejb/src/java/JPA/Authentication.java</file>
+            <file>file:/C:/Users/jmagalhaes/Documents/NetBeansProjects/PurchaseSystemServer/PurchaseSystemServer-ejb/src/java/JPA/Proposal.java</file>
+            <file>file:/C:/Users/jmagalhaes/Documents/NetBeansProjects/PurchaseSystemServer/PurchaseSystemServer-ejb/src/java/JPA/Evaluation.java</file>
+            <file>file:/C:/Users/jmagalhaes/Documents/NetBeansProjects/PurchaseSystemServer/PurchaseSystemServer-ejb/src/java/JPA/Productcategory.java</file>
         </group>
     </open-files>
 </project-private>
